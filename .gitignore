@@ -1,0 +1,13 @@
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+build/
+.gradle/
+local.properties
+bin/
+gen/
+androidTest/
+test/
+gradle*
